@@ -1,0 +1,1 @@
+This project is dedicated to image processing and computer vision methods using the OpenCV library. The main focus is on satellite image analysis and infrastructure object detection.
