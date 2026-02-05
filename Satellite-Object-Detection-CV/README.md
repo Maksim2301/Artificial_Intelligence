@@ -1,0 +1,1 @@
+This project demonstrates advanced methods for processing and analyzing satellite imagery using the OpenCV library. The work covers stages from image quality enhancement to automatic recognition of urban infrastructure objects.
